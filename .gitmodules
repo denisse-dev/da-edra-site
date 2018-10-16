@@ -1,0 +1,14 @@
+[submodule "themes/ananke"]
+	path = themes/ananke
+	url = https://github.com/budparr/gohugo-theme-ananke.git
+[submodule "da-edra.github.io"]
+	path = da-edra.github.io
+	url = git@github.com:da-edra/da-edra.github.io.git
+	branch = master
+[submodule "public"]
+	path = public
+	url = git@github.com:da-edra/da-edra.github.io.git
+	branch = master
+[submodule "themes/base16"]
+	path = themes/base16
+	url = https://github.com/htdvisser/hugo-base16-theme.git

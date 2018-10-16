@@ -1,0 +1,5 @@
+baseURL = "https://hack.codes"
+languageCode = "en-uk"
+title = "My small place on the internet..."
+theme = "base16"
+pygmentsuseclasses = true
